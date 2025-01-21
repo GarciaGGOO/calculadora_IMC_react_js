@@ -74,8 +74,4 @@ Certifique-se de ter o Node.js e o npm (ou yarn) instalados na sua máquina.
 
 Este projeto foi orientado pelo curso **"Curso de React JS do básico ao avançado"** da plataforma **Hora de Codar**.
 
-## Licença
-
-Este projeto está disponível sob a licença [MIT](LICENSE).
-
 
